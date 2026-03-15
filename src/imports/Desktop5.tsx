@@ -2010,7 +2010,7 @@ function Group40() {
       <div className="-translate-x-1/2 -translate-y-1/2 col-1 flex flex-col h-[61.097px] justify-center ml-[673px] mt-[30.55px] relative row-1 text-[0px] text-center w-[614px]">
         <p className="whitespace-pre-wrap">
           <span className="leading-[50px] text-[20px]">{`   `}</span>
-          <span className="font-['Helvetica_Neue:Italic',sans-serif] leading-[50px] not-italic text-[16px]">{`  Last Updated - Jun 2022`}</span>
+          <span className="font-['Helvetica_Neue:Italic',sans-serif] leading-[50px] not-italic text-[16px]">{`  Last Updated - Feb 2026`}</span>
         </p>
       </div>
     </div>

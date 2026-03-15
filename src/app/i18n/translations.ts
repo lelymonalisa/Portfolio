@@ -135,7 +135,7 @@ export const translations = {
       title: "Get Know Me",
     },
     footer: {
-      lastUpdated: "Last Updated - Jun 2022",
+      lastUpdated: "Last Updated - Feb 2026",
     },
     uiShowcase: {
       title: "UI Showcase",
