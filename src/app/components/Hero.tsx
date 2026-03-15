@@ -1,4 +1,4 @@
-import imgIntersect from "figma:asset/761035c26e426cb6f3942651a55d3caa5a32a4f4.png";
+import imgIntersect from "../../assets/761035c26e426cb6f3942651a55d3caa5a32a4f4.png";
 import svgPaths from "../../imports/svg-vsrvhepri9";
 import { useLanguage } from "../context/LanguageContext";
 import { translations } from "../i18n/translations";

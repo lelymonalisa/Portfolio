@@ -1,9 +1,9 @@
-import imgJustinmindLogoColor from "figma:asset/20a7ba948c0321f0af0151edd8fd4fc1983da0c8.png";
-import img5A5772891C992A034569Ab8C11 from "figma:asset/3066094b83fa50a3529a7332bd8900d1bb8846dd.png";
-import imgFigma1Logo from "figma:asset/b2f6ca68a26930d2f8306245d1f11f178f7c79f0.png";
-import imgInvisionLogo from "figma:asset/21ece1615a63716f5136f69430cbd87df295e09d.png";
-import imgAdobeXdCcIcon from "figma:asset/f16908a140a4edb701208bc4fa3e30490722075b.png";
-import imgSketch2LogoPngTransparent from "figma:asset/d0f0ec090536e2ed23a5c80349289c93f3069d78.png";
+import imgJustinmindLogoColor from "../../assets/20a7ba948c0321f0af0151edd8fd4fc1983da0c8.png";
+import img5A5772891C992A034569Ab8C11 from "../../assets/3066094b83fa50a3529a7332bd8900d1bb8846dd.png";
+import imgFigma1Logo from "../../assets/b2f6ca68a26930d2f8306245d1f11f178f7c79f0.png";
+import imgInvisionLogo from "../../assets/21ece1615a63716f5136f69430cbd87df295e09d.png";
+import imgAdobeXdCcIcon from "../../assets/f16908a140a4edb701208bc4fa3e30490722075b.png";
+import imgSketch2LogoPngTransparent from "../../assets/d0f0ec090536e2ed23a5c80349289c93f3069d78.png";
 import svgPaths from "../../imports/svg-vsrvhepri9";
 import { useLanguage } from "../context/LanguageContext";
 import { translations } from "../i18n/translations";
