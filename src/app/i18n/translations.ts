@@ -15,7 +15,13 @@ export const translations = {
       title: "Experience",
       jobs: [
         {
-          company: "⚡ Evomo Indonesia (Telkom Indonesia)",
+          company: "🛍️ 株式会社ピアリー(PIARY)",
+          period: "April 2024 - Now",
+          role: "Web Engineer", 
+          description: "Built a 街コンcouple-matching website end-to-end—from implementation to AWS deployment—using EC-CUBE (open source), PHP, JavaScript, AWS etc.",
+        },
+        {
+          company: "⚡ Telkom Indonesia",
           period: "Feb 2022 - April 2024",
           role: "Fulltime UI/UX Designer",
           description: "Evomo is a startup from telkom IoT that focuses on IoT technology in manufacturing. Has the responsibility to make UI designs and conduct user research and also build a design systems",
@@ -223,7 +229,19 @@ export const translations = {
       title: "経験",
       jobs: [
         {
-          company: "⚡ Evomo Indonesia (Telkom Indonesia)",
+          company: "🛍️ 株式会社ピアリー(PIARY)",
+          period: "2024年4月 - 現在",
+          role: "Webエンジニア",
+          description: "EC-CUBE（オープンソース）、PHP、JavaScript、AWSなどを使用し、街コン婚活マッチングサイトの実装からAWSデプロイまでエンドツーエンドで構築。",
+        },
+        {
+          company: "⚡Telkom Indonesia",
+          period: "2022年2月 - 2024年4月",
+          role: "フルタイムUI/UXデザイナー",
+          description: "Evomoは、製造業のIoT技術に焦点を当てたtelkom IoTのスタートアップです。UIデザインを作成し、ユーザーリサーチを実施し、デザインシステムを構築する責任があります",
+        },
+        {
+          company: "⚡ Telkom Indonesia",
           period: "2022年2月 - 2024年4月",
           role: "フルタイムUI/UXデザイナー",
           description: "Evomoは、製造業のIoT技術に焦点を当てたtelkom IoTのスタートアップです。UIデザインを作成し、ユーザーリサーチを実施し、デザインシステムを構築する責任があります",
