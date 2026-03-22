@@ -30,7 +30,7 @@ export function Footer() {
             Linkedin
           </a>
           <a 
-            href="https://medium.com/@lelymonalisa" 
+            href="https://medium.com/@lelymonce_" 
             className="text-white underline hover:opacity-80 transition-opacity"
           >
             Medium

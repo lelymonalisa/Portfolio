@@ -16,7 +16,7 @@ export function Contact() {
         className="rounded-[20px] backdrop-blur-[100px] p-8"
         style={{ backgroundColor: "rgba(219, 255, 242, 0.05)" }}
       >
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
           <a 
             href="mailto:Lelymonalisa.work@gmail.com"
             className="flex items-center gap-4 group"
@@ -29,12 +29,12 @@ export function Contact() {
               </svg>
             </div>
             <span className="text-white text-sm underline group-hover:opacity-80 transition-opacity">
-              Lelymonalisa.work@gmail.com
+              gmail
             </span>
           </a>
 
           <a 
-            href="https://medium.com/@lelymonalisa"
+            href="https://medium.com/@lelymonce_"
             className="flex items-center gap-4 group"
           >
             <div className="w-8 h-8 flex-shrink-0">

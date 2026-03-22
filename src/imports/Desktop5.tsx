@@ -1,6 +1,5 @@
 import svgPaths from "./svg-vsrvhepri9";
 import imgIntersect from "../assets/761035c26e426cb6f3942651a55d3caa5a32a4f4.png";
-import imgEllipse180 from "../assets/db2c670e28c21abae976381de39577a1ce30c83f.png";
 import imgJustinmindLogoColor from "../assets/20a7ba948c0321f0af0151edd8fd4fc1983da0c8.png";
 import img5A5772891C992A034569Ab8C11 from "../assets/3066094b83fa50a3529a7332bd8900d1bb8846dd.png";
 import imgFigma1Logo from "../assets/b2f6ca68a26930d2f8306245d1f11f178f7c79f0.png";
@@ -948,7 +947,7 @@ function Group2() {
     <div className="absolute contents left-[194px] top-[106px]">
       <Gmail />
       <a className="-translate-y-1/2 absolute flex flex-col font-['Helvetica_Neue:Light',sans-serif] justify-center leading-[0] left-[240px] not-italic text-[14px] text-white top-[121.5px] tracking-[-0.63px] whitespace-nowrap" href="mailto:Lelymonalisa.work@gmail.com">
-        <p className="[text-decoration-skip-ink:none] cursor-pointer decoration-solid leading-[1.5] underline">Lelymonalisa.work@gmail.com</p>
+        <p className="[text-decoration-skip-ink:none] cursor-pointer decoration-solid leading-[1.5] underline">gmail</p>
       </a>
     </div>
   );
@@ -983,7 +982,7 @@ function Group3() {
   return (
     <div className="absolute contents left-[503px] top-[106px]">
       <Gmail1 />
-      <a className="-translate-y-1/2 absolute flex flex-col font-['Helvetica_Neue:Light',sans-serif] justify-center leading-[0] left-[549px] not-italic text-[14px] text-white top-[121.5px] tracking-[-0.63px] w-[70px]" href="https://medium.com/@lelymonalisa">
+      <a className="-translate-y-1/2 absolute flex flex-col font-['Helvetica_Neue:Light',sans-serif] justify-center leading-[0] left-[549px] not-italic text-[14px] text-white top-[121.5px] tracking-[-0.63px] w-[70px]" href="https://medium.com/@lelymonce_">
         <p className="[text-decoration-skip-ink:none] cursor-pointer decoration-solid leading-[1.5] underline whitespace-pre-wrap">medium</p>
       </a>
     </div>
@@ -1984,7 +1983,7 @@ function Group39() {
 function Group37() {
   return (
     <div className="col-1 grid-cols-[max-content] grid-rows-[max-content] inline-grid items-[start] justify-items-[start] ml-[852px] mt-0 relative row-1 text-[16px] text-right">
-      <a className="-translate-x-full -translate-y-1/2 col-1 flex flex-col h-[61.097px] justify-center ml-[359px] mt-[30.55px] relative row-1 w-[180px]" href="https://medium.com/@lelymonalisa">
+      <a className="-translate-x-full -translate-y-1/2 col-1 flex flex-col h-[61.097px] justify-center ml-[359px] mt-[30.55px] relative row-1 w-[180px]" href="https://medium.com/@lelymonce_">
         <p className="[text-decoration-skip-ink:none] cursor-pointer decoration-solid leading-[50px] underline whitespace-pre-wrap">Medium</p>
       </a>
       <a className="-translate-x-full -translate-y-1/2 col-1 flex flex-col h-[61.097px] justify-center ml-[449px] mt-[30.55px] relative row-1 w-[180px]" href="https://www.linkedin.com/in/lely-monalisa-050811/">

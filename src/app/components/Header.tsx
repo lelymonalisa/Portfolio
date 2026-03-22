@@ -1,7 +1,6 @@
 import { Link, useLocation } from "react-router-dom";
 import { useLanguage } from "../context/LanguageContext";
 import { translations } from "../i18n/translations";
-import imgEllipse180 from "../../assets/db2c670e28c21abae976381de39577a1ce30c83f.png";
 
 export function Header() {
   const location = useLocation();
@@ -65,7 +64,9 @@ export function Header() {
           onClick={toggleLanguage}
           className="bg-white border-2 border-[#f77555] rounded-full px-4 py-1 flex items-center gap-2 hover:bg-gray-50 transition-colors cursor-pointer"
         >
-          <img src={imgEllipse180} alt="" className="w-6 h-6" />
+          <span className="text-xl">
+            {language === "en" ? "🇺🇸" : "🇯🇵"}
+          </span>
           <span className="text-black text-sm font-medium">
             {language === "en" ? "ENG" : "日本"}
           </span>

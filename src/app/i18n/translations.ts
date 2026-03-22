@@ -16,7 +16,7 @@ export const translations = {
       jobs: [
         {
           company: "⚡ Evomo Indonesia (Telkom Indonesia)",
-          period: "Jan 2022 - Now",
+          period: "Feb 2022 - April 2024",
           role: "Fulltime UI/UX Designer",
           description: "Evomo is a startup from telkom IoT that focuses on IoT technology in manufacturing. Has the responsibility to make UI designs and conduct user research and also build a design systems",
         },
@@ -68,7 +68,7 @@ export const translations = {
     education: {
       title: "Education",
       school: "🎓 Gadjah Mada University",
-      period: "Aug 2016 - Feb 2021",
+      period: "Feb 2021",
       major: "Information Engineering",
     },
     tools: {
@@ -136,6 +136,10 @@ export const translations = {
     },
     footer: {
       lastUpdated: "Last Updated - Feb 2026",
+    },
+    portfolio: {
+      redirecting: "Redirecting to portfolio...",
+      clickHere: "Click here if not redirected automatically",
     },
     uiShowcase: {
       title: "UI Showcase",
@@ -205,7 +209,7 @@ export const translations = {
   },
   jp: {
     header: {
-      name: "レリー・モナリサ",
+      name: "レリ・モナリサ",
       resume: "履歴書",
       uiShowcase: "UIショーケース",
       caseStudy: "ケーススタディ",
@@ -220,7 +224,7 @@ export const translations = {
       jobs: [
         {
           company: "⚡ Evomo Indonesia (Telkom Indonesia)",
-          period: "2022年1月 - 現在",
+          period: "2022年2月 - 2024年4月",
           role: "フルタイムUI/UXデザイナー",
           description: "Evomoは、製造業のIoT技術に焦点を当てたtelkom IoTのスタートアップです。UIデザインを作成し、ユーザーリサーチを実施し、デザインシステムを構築する責任があります",
         },
@@ -272,7 +276,7 @@ export const translations = {
     education: {
       title: "学歴",
       school: "🎓 ガジャマダ大学",
-      period: "2016年8月 - 2021年2月",
+      period: "2021年2月",
       major: "情報工学",
     },
     tools: {
@@ -339,7 +343,11 @@ export const translations = {
       title: "私を知る",
     },
     footer: {
-      lastUpdated: "最終更新 - 2022年6月",
+      lastUpdated: "最終更新 - 2026年2月",
+    },
+    portfolio: {
+      redirecting: "ポートフォリオにリダイレクト中...",
+      clickHere: "自動的に移動しない場合はこちらをクリック",
     },
     uiShowcase: {
       title: "UIショーケース",
