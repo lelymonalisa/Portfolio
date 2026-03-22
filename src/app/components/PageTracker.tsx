@@ -23,7 +23,8 @@ export function PageTracker() {
 
     const title = PAGE_TITLES[location.pathname] ?? location.pathname;
 
-    window.gtag("event", "page_view", {
+    // Gunakan 'config' agar GA4 otomatis membaca UTM params dari URL
+    window.gtag("config", "G-J96XQVQ3HG", {
       page_title: title,
       page_location: window.location.href,
       page_path: location.pathname,
